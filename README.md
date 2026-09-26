@@ -38,6 +38,6 @@
 PCとUSBデバッグを使う方法です。24時間の待機は不要です。
 
 ```
-adb install ELSTReVanced.apk
+adb install Hanage-debug.apk
 ```
 apkは[Release](https://github.com/RADEON6800/Hanage-Alarm/releases)ページからダウンロードしてください。
